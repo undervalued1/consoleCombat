@@ -1,0 +1,4 @@
+﻿  consoleCombat.cpp
+C:\Users\andre\source\repos\consoleCombat\consoleCombat\consoleCombat\consoleCombat.cpp(146,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\andre\source\repos\consoleCombat\consoleCombat\x64\Debug\consoleCombat.exe при последней инкрементной компоновке; выполняется полная компоновка
+  consoleCombat.vcxproj -> C:\Users\andre\source\repos\consoleCombat\consoleCombat\x64\Debug\consoleCombat.exe
